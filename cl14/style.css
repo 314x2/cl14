@@ -1,0 +1,72 @@
+body {
+  position: relative;
+}
+
+img {
+}
+#b0 {
+  position:absolute;
+  left:0;
+}
+
+#b1 {
+  position:absolute;
+  left:0;
+}
+
+#bt0 {
+  position: absolute;
+  left:300px;
+  top:260px;
+  width:100px;
+}
+#bt1 {
+  position: absolute;
+  left:500px;
+  top:400px;
+  width:100px;
+}
+#bt2 {
+  position: absolute;
+  left:100px;
+  top:300px;
+  width:100px;
+}
+
+.foo {
+  position: absolute;
+  width:30px;
+}
+
+#f0 {
+  left:550px;
+  top:230px;
+}
+#f1 {
+  left:525px;
+  top:230px;
+}
+#f2 {
+  left:500px;
+  top:230px;
+}
+#f3 {
+  left:475px;
+  top:230px;
+}
+#f4 {
+  left:450px;
+  top:230px;
+}
+
+#message {
+  position: absolute;
+  left:10px;
+  top:30px;
+  width:500px;
+  height:100px;
+  background-color:RGB(255,255,255,0.3);
+  color:red;
+  font-size:30px;
+  padding:15px;
+}
