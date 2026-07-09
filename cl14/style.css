@@ -35,23 +35,23 @@ img {
 
 .foo {
   position: absolute;
-  width:30px;
+  width:50px;
 }
 
 #f0 {
-  left:550px;
+  left:610px;
   top:230px;
 }
 #f1 {
-  left:525px;
+  left:570px;
   top:230px;
 }
 #f2 {
-  left:500px;
+  left:530px;
   top:230px;
 }
 #f3 {
-  left:475px;
+  left:490px;
   top:230px;
 }
 #f4 {
@@ -69,4 +69,6 @@ img {
   color:red;
   font-size:30px;
   padding:15px;
+  z-index1;
+  pointer-events:none;
 }
